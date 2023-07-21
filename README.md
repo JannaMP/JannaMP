@@ -21,7 +21,7 @@
 
  <br>
  <div>
-<img width="80%" height="50%"  src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
+<img width="50%" height="50%"  src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
 </div>
  <br>   
 
