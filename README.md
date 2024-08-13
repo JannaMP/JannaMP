@@ -1,6 +1,6 @@
 # Olá! :) Seja bem vindo(a) ao meu perfil!
 
-📚 Estudante de Desenvolvimento de Sistemas, cursando Desenvolvimento de Software Multiplataforma.
+📚 Estudante de Desenvolvimento de Sistemas, cursando Desenvolvimento de Software Multiplataforma pela Fatec Luigi Papaiz.
 
 🎓Formada em Web Desenvolvimento Java pelo Instituto Proa e Desenvolvimento Full Stack pelo Senai/Fundação Grupo Volkswagen. 
 
