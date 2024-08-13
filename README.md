@@ -1,6 +1,6 @@
 # Olá! :) Seja bem vindo(a) ao meu perfil!
 
-📚 Estudante de Desenvolvimento de Sistemas, cursando Análise e Desenvolvimento de Sistemas na Estácio.
+📚 Estudante de Desenvolvimento de Sistemas, cursando Desenvolvimento de Software Multiplataforma.
 
 🎓Formada em Web Desenvolvimento Java pelo Instituto Proa e Desenvolvimento Full Stack pelo Senai/Fundação Grupo Volkswagen. 
 
