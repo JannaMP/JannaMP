@@ -4,8 +4,6 @@
 
 🎓Formada em Web Desenvolvimento Java pelo Instituto Proa e Desenvolvimento Full Stack pelo Senai/Fundação Grupo Volkswagen. 
 
-👩🏻‍💻 Software Developer na Partiu Tech.
-
 😄 Pronomes: Ela/Dela.
 
 📫 Como entrar em contato comigo: 
